@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.r.banking.domain.AccountSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-24T07:22:40" hostname="Mehuls-MacBook-Pro.local" time="1.722">
+  <properties/>
+  <testcase name="test the low balance withdrawl method" classname="com.r.banking.domain.AccountSpec" time="1.722"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
